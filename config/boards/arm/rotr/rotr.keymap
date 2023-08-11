@@ -16,7 +16,7 @@
 
 		default_layer {
 			//PREV | PLAY/PAUSE | NEXT
-			bindings = <&kp F13 &lt 4 F13 &kp C_MUTE>;
+			bindings = <&kp F13 &lt 4 F13 &kp F14>;
 			sensor-bindings = <&inc_dec_kp C_AC_SCROLL_UP C_AC_SCROLL_DOWN>;
 		};
 		one {
